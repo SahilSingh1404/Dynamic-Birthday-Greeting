@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dynamic-Birthday-Greeting/static/css/main.0355834f.css",
+    "main.js": "/Dynamic-Birthday-Greeting/static/js/main.4cfa1ab3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Dynamic-Birthday-Greeting/static/js/787.28cb0dcd.chunk.js",
+    "static/media/cakes.png": "/Dynamic-Birthday-Greeting/static/media/cakes.309b48794d0b914f57ef.png",
+    "index.html": "/Dynamic-Birthday-Greeting/index.html",
+    "main.0355834f.css.map": "/Dynamic-Birthday-Greeting/static/css/main.0355834f.css.map",
+    "main.4cfa1ab3.js.map": "/Dynamic-Birthday-Greeting/static/js/main.4cfa1ab3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Dynamic-Birthday-Greeting/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0355834f.css",
+    "static/js/main.4cfa1ab3.js"
+  ]
+}
